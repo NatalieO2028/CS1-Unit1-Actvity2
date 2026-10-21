@@ -13,10 +13,25 @@ body {
   color: white;
   padding: 25px;
   font-size: 30px;
+  padding: 5px;
 }
 #atrain {
   background-color: blue;
+  margin: 150px;
+border: 30px;
+border-color: white;
 }
 .express{
   background-color: red;
+  margin: 150px;
+}
+li {
+  padding: 25px;
+  border-bottom: white;
+  border-bottom-color: white;
+}
+img{
+  width: 150px;
+  border-radius: 100px;
+  border-color: white;
 }
