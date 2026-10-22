@@ -28,10 +28,12 @@ border-color: white;
 li {
   padding: 25px;
   border-bottom: white;
-  border-bottom-color: white;
+  border-bottom-color: black;
+  border-bottom-style: groove;
 }
 img{
   width: 150px;
   border-radius: 100px;
-  border-color: white;
+  border-color: black;
+  border-style: double;
 }
